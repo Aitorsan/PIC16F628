@@ -3,6 +3,6 @@ This project contains small program written in assembly for the pic microcontrol
 
 # Current programs
 <ul>
-  <li>LedTimingInterrupt.asm : this program  turns on an ld when the button is press. If the button still pressed after 16   seconds the led will turn off even if the button still pressed.
+  <li><b>LedTimingInterrupt.asm :</b> this program  turns on an ld when the button is press. If the button still pressed after 16   seconds the led will turn off even if the button still pressed.
   </li>
   </ul>
